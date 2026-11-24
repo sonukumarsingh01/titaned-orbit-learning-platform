@@ -48,13 +48,11 @@ Every institution wants Orbit to look like its own. I built the system that make
 from Control-Hub, and the system carries it into every screen of Studio, the LMS, sign-in, dashboards and public pages.
 
 **How it works**
-- **Three levels:** brand settings (colours, fonts, text sizes, spacing, page width) → 40+ shared components with all their
+- **Three levels:** brand settings (colours, fonts, text sizes, spacing, page width) → shared components with all their
   states (hover, active, disabled, focus) → small per-app layers for each of the 11 apps. One change reaches every app together.
 - **Light and dark mode:** every brand setting has a dark-mode counterpart, created and checked automatically.
 - **Theme creator:** templates, key colours and custom fonts (with upload), live preview across the apps before saving,
   change history with undo, and theme export and import.
-- **Quality gate:** 22 automatic checks on every build and commit (colour contrast, button and focus states, fonts, screen sizes,
-  right-to-left layout, dark mode, CSS size), so no brand can make the platform hard to read.
 
 **Result:** a new institution's brand goes live in minutes instead of days of development, stays accessible and survives upgrades.
 
