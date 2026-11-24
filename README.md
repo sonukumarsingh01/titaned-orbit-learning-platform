@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 TitanEd Orbit (formerly TELS)
+# 🚀 TitanEd Orbit
 
 ### TitanEd's managed, AI-centric learning platform built on Open edX
 
